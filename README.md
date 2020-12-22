@@ -5,8 +5,9 @@ Cara Penggunaan Frontend:
 2. Setelah proses instalasi selesai, jalankan server dengan perintah "npm start"
 
 Cara Penggunaan Backend:
-1. Install Dependency python yang dibutuhkan 
-2. Setelah proses instalasi selesai, jalankan server dengan perintah python main.py pada folder backend
+1. Install Dependency python yang dibutuhkan dengan masuk ke dalam folder backend
+2. Kemudian jalankan perintah ./install.sh pada linux / unix, jika windows maka install via terminal dan hilangkan #! /bin/bash
+3. Setelah proses instalasi selesai, jalankan server dengan perintah python main.py pada folder backend
 
 ---------------------------------------------------------------------------------------------------------
 Import Database:

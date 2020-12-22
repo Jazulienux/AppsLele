@@ -1,4 +1,4 @@
-# Penentuan Bibit Lele Unggul atau tidak dengan Menggunakan KNN & Naive Bayes
+# Penentuan Bibit Lele Unggul atau Tidak Unggul Menggunakan KNN & Naive Bayes
 
 Cara Penggunaan Frontend:
 1. Lakukan instalasi node module dengan perintah "npm install" tepat di dalam folder frontend
